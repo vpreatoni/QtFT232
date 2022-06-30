@@ -6,7 +6,7 @@ FTDI chips are great!! They save us a lot of time, they work quite well, and the
 
 FTDI also provides a very nice and well documented DLL for low level access to FTDI chip internals, but, of course, it is closed source. If you need low level access to FTDI chips, there is an open-source alternative:
 
-https://www.intra2net.com/en/developer/libftdi/
+git://developer.intra2net.com/libftdi
 
  
 I highly recommend Intra2Net libFTDI, as it is portable to any platform, and works very fast and very well.
